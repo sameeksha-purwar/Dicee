@@ -1,0 +1,24 @@
+body{
+margin: 0px;
+padding: 0px;
+background-color: grey;
+
+}
+.container{
+    text-align: center;
+}
+h1{
+    font-size: 90px;
+}
+.dice{
+    display: inline-block;
+    padding: 0px 80px 50px 80px;
+    
+}
+p{
+    font-size: 50px;
+}
+
+
+
+
